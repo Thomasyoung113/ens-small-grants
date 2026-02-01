@@ -49,3 +49,7 @@ For the initial implementation, the focus is on speed of deployment, while retai
 ## License
 
 This project is licensed under both MIT and Apache 2.0
+
+## Grant Process
+
+Small grants support builders in the ecosystem. Applications are reviewed on a rolling basis by the community.
